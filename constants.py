@@ -1,0 +1,1 @@
+HOT_URL = "https://s.search.bilibili.com/main/hotword"
